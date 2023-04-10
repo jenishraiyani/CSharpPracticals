@@ -1,0 +1,15 @@
+C:\Users\jenish\Desktop\All Practicals\CSharpPracticals\Practical-02\Practical-02\bin\Debug\net6.0\Practical-02.exe
+C:\Users\jenish\Desktop\All Practicals\CSharpPracticals\Practical-02\Practical-02\bin\Debug\net6.0\Practical-02.deps.json
+C:\Users\jenish\Desktop\All Practicals\CSharpPracticals\Practical-02\Practical-02\bin\Debug\net6.0\Practical-02.runtimeconfig.json
+C:\Users\jenish\Desktop\All Practicals\CSharpPracticals\Practical-02\Practical-02\bin\Debug\net6.0\Practical-02.dll
+C:\Users\jenish\Desktop\All Practicals\CSharpPracticals\Practical-02\Practical-02\bin\Debug\net6.0\Practical-02.pdb
+C:\Users\jenish\Desktop\All Practicals\CSharpPracticals\Practical-02\Practical-02\obj\Debug\net6.0\Practical-02.csproj.AssemblyReference.cache
+C:\Users\jenish\Desktop\All Practicals\CSharpPracticals\Practical-02\Practical-02\obj\Debug\net6.0\Practical-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenish\Desktop\All Practicals\CSharpPracticals\Practical-02\Practical-02\obj\Debug\net6.0\Practical-02.AssemblyInfoInputs.cache
+C:\Users\jenish\Desktop\All Practicals\CSharpPracticals\Practical-02\Practical-02\obj\Debug\net6.0\Practical-02.AssemblyInfo.cs
+C:\Users\jenish\Desktop\All Practicals\CSharpPracticals\Practical-02\Practical-02\obj\Debug\net6.0\Practical-02.csproj.CoreCompileInputs.cache
+C:\Users\jenish\Desktop\All Practicals\CSharpPracticals\Practical-02\Practical-02\obj\Debug\net6.0\Practical-02.dll
+C:\Users\jenish\Desktop\All Practicals\CSharpPracticals\Practical-02\Practical-02\obj\Debug\net6.0\refint\Practical-02.dll
+C:\Users\jenish\Desktop\All Practicals\CSharpPracticals\Practical-02\Practical-02\obj\Debug\net6.0\Practical-02.pdb
+C:\Users\jenish\Desktop\All Practicals\CSharpPracticals\Practical-02\Practical-02\obj\Debug\net6.0\Practical-02.genruntimeconfig.cache
+C:\Users\jenish\Desktop\All Practicals\CSharpPracticals\Practical-02\Practical-02\obj\Debug\net6.0\ref\Practical-02.dll

@@ -1,0 +1,15 @@
+C:\Users\jenish\Desktop\All Practicals\CSharpDemos\SolidPrincipalsDemo\SolidPrincipalsDemo\bin\Debug\net6.0\SolidPrincipalsDemo.exe
+C:\Users\jenish\Desktop\All Practicals\CSharpDemos\SolidPrincipalsDemo\SolidPrincipalsDemo\bin\Debug\net6.0\SolidPrincipalsDemo.deps.json
+C:\Users\jenish\Desktop\All Practicals\CSharpDemos\SolidPrincipalsDemo\SolidPrincipalsDemo\bin\Debug\net6.0\SolidPrincipalsDemo.runtimeconfig.json
+C:\Users\jenish\Desktop\All Practicals\CSharpDemos\SolidPrincipalsDemo\SolidPrincipalsDemo\bin\Debug\net6.0\SolidPrincipalsDemo.dll
+C:\Users\jenish\Desktop\All Practicals\CSharpDemos\SolidPrincipalsDemo\SolidPrincipalsDemo\bin\Debug\net6.0\SolidPrincipalsDemo.pdb
+C:\Users\jenish\Desktop\All Practicals\CSharpDemos\SolidPrincipalsDemo\SolidPrincipalsDemo\obj\Debug\net6.0\SolidPrincipalsDemo.csproj.AssemblyReference.cache
+C:\Users\jenish\Desktop\All Practicals\CSharpDemos\SolidPrincipalsDemo\SolidPrincipalsDemo\obj\Debug\net6.0\SolidPrincipalsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenish\Desktop\All Practicals\CSharpDemos\SolidPrincipalsDemo\SolidPrincipalsDemo\obj\Debug\net6.0\SolidPrincipalsDemo.AssemblyInfoInputs.cache
+C:\Users\jenish\Desktop\All Practicals\CSharpDemos\SolidPrincipalsDemo\SolidPrincipalsDemo\obj\Debug\net6.0\SolidPrincipalsDemo.AssemblyInfo.cs
+C:\Users\jenish\Desktop\All Practicals\CSharpDemos\SolidPrincipalsDemo\SolidPrincipalsDemo\obj\Debug\net6.0\SolidPrincipalsDemo.csproj.CoreCompileInputs.cache
+C:\Users\jenish\Desktop\All Practicals\CSharpDemos\SolidPrincipalsDemo\SolidPrincipalsDemo\obj\Debug\net6.0\SolidPrincipalsDemo.dll
+C:\Users\jenish\Desktop\All Practicals\CSharpDemos\SolidPrincipalsDemo\SolidPrincipalsDemo\obj\Debug\net6.0\refint\SolidPrincipalsDemo.dll
+C:\Users\jenish\Desktop\All Practicals\CSharpDemos\SolidPrincipalsDemo\SolidPrincipalsDemo\obj\Debug\net6.0\SolidPrincipalsDemo.pdb
+C:\Users\jenish\Desktop\All Practicals\CSharpDemos\SolidPrincipalsDemo\SolidPrincipalsDemo\obj\Debug\net6.0\SolidPrincipalsDemo.genruntimeconfig.cache
+C:\Users\jenish\Desktop\All Practicals\CSharpDemos\SolidPrincipalsDemo\SolidPrincipalsDemo\obj\Debug\net6.0\ref\SolidPrincipalsDemo.dll
